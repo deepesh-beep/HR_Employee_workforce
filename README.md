@@ -1,4 +1,5 @@
 HR Employee Analytics Dashboard — Advanced Excel
+
 An end-to-end HR analytics project built in Advanced Excel analyzing 1,470 employee records across 37 variables to surface attrition drivers, salary patterns, and workforce trends. Built using Power Query, Pivot Tables, XLOOKUP, dynamic arrays, and an interactive slicer-driven dashboard.
 
 Key Findings

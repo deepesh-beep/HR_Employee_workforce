@@ -21,5 +21,5 @@ HR-Analytics-Dashboard/
 │   ├── dashboard_preview.png               ← Full dashboard screenshot
 │   ├── attrition_by_dept.png
 │   ├── overtime_attrition.png
-│   └── salary_distribution.png
+│   └── salary_distribution.png 
 └── README.md

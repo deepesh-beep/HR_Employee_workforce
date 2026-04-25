@@ -11,6 +11,7 @@ Average Tenure 7.0 years
 Notable Insights
 
 Project Structure
+
 HR-Analytics-Dashboard/
 ├── HR_Employee.xlsx                        ← Main workbook (3 sheets)
 │   ├── WA_Fn-UseC_-HR-Employee-Attriti    ← Raw data (1,470 rows × 37 cols)
